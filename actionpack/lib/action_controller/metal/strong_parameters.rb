@@ -1126,7 +1126,7 @@ module ActionController
         hash
       end
 
-      # Filters self and optionally checks for unpermitted keys
+      # Filters self and optionally checks for unpermitted keys.
       def permit_filters(filters, on_unpermitted: nil, explicit_arrays: true)
         params = self.class.new
 
