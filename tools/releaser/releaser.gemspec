@@ -4,7 +4,7 @@ Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
   s.name        = "releaser"
   s.version     = "1.0.0"
-  s.summary     = "Library to release Rails"
+  s.summary     = "Library to release Rails."
   s.description = "A set of tasks to release Rails"
 
   s.required_ruby_version = ">= 3.2.0"
