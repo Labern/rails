@@ -8,7 +8,7 @@ Gem::Specification.new do |spec|
   spec.authors = ["Hartley McGuire"]
   spec.email = ["skipkayhil@gmail.com"]
 
-  spec.summary = "A collection of linters for rails/rails"
+  spec.summary = "A collection of linters for rails/rails."
   spec.homepage = "https://github.com/skipkayhil/rail_inspector"
   spec.license = "MIT"
   spec.required_ruby_version = ">= 3.2.0"
